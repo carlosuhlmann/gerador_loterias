@@ -4,6 +4,6 @@ Projeto que gera números aleatórios para os sorteios da mega sena, dupla sena,
 
 Foi utilizado HTML,Bootstrap e Javascript.
 
-##Se você ganhar na loteria utilizando este gerador, aceito doações!! =D $$$
+## Se você ganhar na loteria utilizando este gerador, aceito doações!! =D $$$
 
 ![](https://github.com/carlosuhlmann/gerador_loterias/blob/master/gerador.jpg)
