@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gerador de loterias - Mega Sena</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
+<body>
+
+    <div class="container bg-success border rounded mt-5 p-3">
+        <a href="index.html" style="text-decoration: none;">
+            <h1 class="disabled h1 text-center text-light">GERADOR DE LOTERIAS</h1>
+        </a>
+    </div>
+    <div class="container">
+        <h1 class="h2 text-secondary text-center mt-4">Escolha a loteria</h1>
+    </div>
+    <div class="container text-center mt-3">
+        <a href="mega_sena.html"><button class="btn btn-success btn-lg m-3">Mega-Sena</button></a>
+        <a href="quina.html"><button class="btn btn-success btn-lg m-3">Quina</button></a>
+        <a href="lotofacil.html"><button class="btn btn-success btn-lg m-3">Lotofácil</button></a>
+        <a href="dupla_sena.html"><button class="btn btn-success btn-lg m-3">Dupla-Sena</button></a>
+
+    </div>
+
+    <div class="container text-center mt-5">
+        <form>
+            <div class="form-group">
+                <label for="exampleFormControlSelect1">Quantidade de números</label>
+                <select class="form-control" id="quantidade">
+                  <option value="1">1</option>
+                  <option value="2">2</option>
+                  <option value="3">3</option>
+                  <option value="4">4</option>
+                  <option value="5">5</option>
+                  <option value="6">6</option>
+                  <option value="7">7</option>
+                  <option value="8">8</option>
+                  <option value="9">9</option>
+                  <option value="10">10</option>
+                  <option value="11">11</option>
+                  <option value="12">12</option>
+                  <option value="13">13</option>
+                  <option value="14">14</option>
+                  <option value="15">15</option>
+                </select>
+              </div>
+        </form>
+
+    </div>
+
+  
+
+
+
+    <div class="container">
+        <h1 class=" mt-5 h3 text-center text-secondary">Gerar os números da Mega Sena</h1>
+    </div>
+
+    <div class="container text-center" id="gerar">
+        <button onclick="sorteio()" class="p-3 mt-3 btn btn-block btn-success text-light" type="submit"> <strong>GERAR
+                NÚMEROS</strong> </button>
+    </div>
+
+    <div class="container">
+        <div class="h1 text-center mt-4 text-secondary" id="resultado">
+
+        </div>
+
+    </div>
+
+
+
+    <script src="assets/js/mega.js"></script>
+</body>
+
+</html>
