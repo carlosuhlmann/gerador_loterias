@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Sistema que sorteia números aleatórios para os sorteios da mega sena, dupla sena, quina e lotofácil.
+  Sistema que sorteia números aleatórios para os sorteios da mega-sena, dupla-sena, quina e lotofácil.
 </p>
 
 <h2 align="center">
