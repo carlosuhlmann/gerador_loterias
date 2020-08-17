@@ -17,7 +17,7 @@
 </div>
  
  <p align="center">
-  <img alt="Gerador de loterias" src="https://github.com/carlosuhlmann/gerador_loterias/blob/master/gerador.jpg">
+  <img alt="Gerador de loterias" src="https://github.com/carlosuhlmann/gerador_loterias/blob/master/loteria.gif">
  </p>
  
  ## Autor
