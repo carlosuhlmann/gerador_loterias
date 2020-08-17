@@ -22,6 +22,8 @@
   <img alt="Gerador de loterias" src="https://github.com/carlosuhlmann/gerador_loterias/blob/master/loteria.gif">
  </p>
  
+ <hr>
+ 
  ## Autor
 
 * **[Carlos Eduardo Uhlmannn](https://github.com/carlosuhlmann)**
